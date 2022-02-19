@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgotpassword.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notedetails.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_notedetails.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_notes_layout.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\notes_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable-v24\\save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notes.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_update.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable-v24\\update.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_design.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_createnote.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_createnote.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_edit.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_editnoteactivity.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\layout\\activity_editnoteactivity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_circle_up_24.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_circle_up_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DiaryApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\DiaryApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    }
+]
